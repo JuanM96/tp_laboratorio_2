@@ -1,0 +1,18 @@
+F:\Projectos Csharp\Murcia.Juan\Murcia.Juan\Tp1_Calculadora_Juan_Ignacio_Murcia\bin\Debug\Tp1_Calculadora_Juan_Ignacio_Murcia.exe.config
+F:\Projectos Csharp\Murcia.Juan\Murcia.Juan\Tp1_Calculadora_Juan_Ignacio_Murcia\bin\Debug\Tp1_Calculadora_Juan_Ignacio_Murcia.exe
+F:\Projectos Csharp\Murcia.Juan\Murcia.Juan\Tp1_Calculadora_Juan_Ignacio_Murcia\bin\Debug\Tp1_Calculadora_Juan_Ignacio_Murcia.pdb
+F:\Projectos Csharp\Murcia.Juan\Murcia.Juan\Tp1_Calculadora_Juan_Ignacio_Murcia\obj\Debug\Tp1_Calculadora_Juan_Ignacio_Murcia.csprojResolveAssemblyReference.cache
+F:\Projectos Csharp\Murcia.Juan\Murcia.Juan\Tp1_Calculadora_Juan_Ignacio_Murcia\obj\Debug\Tp1_Calculadora_Juan_Ignacio_Murcia.Form1.resources
+F:\Projectos Csharp\Murcia.Juan\Murcia.Juan\Tp1_Calculadora_Juan_Ignacio_Murcia\obj\Debug\Tp1_Calculadora_Juan_Ignacio_Murcia.Properties.Resources.resources
+F:\Projectos Csharp\Murcia.Juan\Murcia.Juan\Tp1_Calculadora_Juan_Ignacio_Murcia\obj\Debug\Tp1_Calculadora_Juan_Ignacio_Murcia.csproj.GenerateResource.Cache
+F:\Projectos Csharp\Murcia.Juan\Murcia.Juan\Tp1_Calculadora_Juan_Ignacio_Murcia\obj\Debug\Tp1_Calculadora_Juan_Ignacio_Murcia.exe
+F:\Projectos Csharp\Murcia.Juan\Murcia.Juan\Tp1_Calculadora_Juan_Ignacio_Murcia\obj\Debug\Tp1_Calculadora_Juan_Ignacio_Murcia.pdb
+D:\Murcia.Juan\Murcia.Juan\Tp1_Calculadora_Juan_Ignacio_Murcia\bin\Debug\Tp1_Calculadora_Juan_Ignacio_Murcia.exe.config
+D:\Murcia.Juan\Murcia.Juan\Tp1_Calculadora_Juan_Ignacio_Murcia\obj\Debug\Tp1_Calculadora_Juan_Ignacio_Murcia.exe
+D:\Murcia.Juan\Murcia.Juan\Tp1_Calculadora_Juan_Ignacio_Murcia\obj\Debug\Tp1_Calculadora_Juan_Ignacio_Murcia.pdb
+D:\Murcia.Juan\Murcia.Juan\Tp1_Calculadora_Juan_Ignacio_Murcia\bin\Debug\Tp1_Calculadora_Juan_Ignacio_Murcia.exe
+D:\Murcia.Juan\Murcia.Juan\Tp1_Calculadora_Juan_Ignacio_Murcia\bin\Debug\Tp1_Calculadora_Juan_Ignacio_Murcia.pdb
+D:\Murcia.Juan\Murcia.Juan\Tp1_Calculadora_Juan_Ignacio_Murcia\obj\Debug\Tp1_Calculadora_Juan_Ignacio_Murcia.csprojResolveAssemblyReference.cache
+D:\Murcia.Juan\Murcia.Juan\Tp1_Calculadora_Juan_Ignacio_Murcia\obj\Debug\Tp1_Calculadora_Juan_Ignacio_Murcia.Form1.resources
+D:\Murcia.Juan\Murcia.Juan\Tp1_Calculadora_Juan_Ignacio_Murcia\obj\Debug\Tp1_Calculadora_Juan_Ignacio_Murcia.Properties.Resources.resources
+D:\Murcia.Juan\Murcia.Juan\Tp1_Calculadora_Juan_Ignacio_Murcia\obj\Debug\Tp1_Calculadora_Juan_Ignacio_Murcia.csproj.GenerateResource.Cache
