@@ -1,0 +1,20 @@
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.dll
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.pdb
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\bin\Debug\Excepciones.dll
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.dll
+F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\bin\Debug\Excepciones.dll
+F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.pdb
+F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
+F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\bin\Debug\Archivos.dll
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\bin\Debug\Archivos.pdb

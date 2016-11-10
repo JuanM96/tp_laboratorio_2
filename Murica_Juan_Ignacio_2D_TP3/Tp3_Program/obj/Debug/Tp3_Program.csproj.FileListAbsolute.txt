@@ -1,0 +1,18 @@
+F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\obj\Debug\Tp3_Program.csprojResolveAssemblyReference.cache
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\obj\Debug\Tp3_Program.csprojResolveAssemblyReference.cache
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\Tp3_Program.exe.config
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\Tp3_Program.exe
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\Tp3_Program.pdb
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\EntidadesAbstractas.dll
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\EntidadesInstanciables.dll
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\Excepciones.dll
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\Archivos.dll
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\EntidadesAbstractas.pdb
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\EntidadesInstanciables.pdb
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\Excepciones.pdb
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\Archivos.pdb
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\obj\Debug\Tp3_Program.exe
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\obj\Debug\Tp3_Program.pdb
+F:\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\Tp3_Program.exe.config
+F:\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\obj\Debug\Tp3_Program.exe
+F:\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\obj\Debug\Tp3_Program.pdb

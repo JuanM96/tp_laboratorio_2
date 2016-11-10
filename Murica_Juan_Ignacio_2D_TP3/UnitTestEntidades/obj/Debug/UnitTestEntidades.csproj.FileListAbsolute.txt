@@ -1,0 +1,13 @@
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\bin\Debug\UnitTestEntidades.dll
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\bin\Debug\UnitTestEntidades.pdb
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\bin\Debug\EntidadesAbstractas.dll
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\bin\Debug\EntidadesInstanciables.dll
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\bin\Debug\Excepciones.dll
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\bin\Debug\Archivos.dll
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\bin\Debug\EntidadesAbstractas.pdb
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\bin\Debug\EntidadesInstanciables.pdb
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\bin\Debug\Excepciones.pdb
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\bin\Debug\Archivos.pdb
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\obj\Debug\UnitTestEntidades.csprojResolveAssemblyReference.cache
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\obj\Debug\UnitTestEntidades.dll
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\obj\Debug\UnitTestEntidades.pdb
