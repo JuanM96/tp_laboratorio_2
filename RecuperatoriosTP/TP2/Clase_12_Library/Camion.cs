@@ -20,10 +20,6 @@ namespace Clase_12_Library
             {
                 return 8;
             }
-            set
-            {
- 
-            }
         }
         /// <summary>
         /// Devuelve un string con la informacion del Camion

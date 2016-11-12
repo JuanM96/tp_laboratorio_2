@@ -21,9 +21,6 @@ namespace Clase_12_Library
             {
                 return 4;
             }
-            set
-            { 
-            }
         }
         /// <summary>
         /// Devuelve un string con la informacion del automovil

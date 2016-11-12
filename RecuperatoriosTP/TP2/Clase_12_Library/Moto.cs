@@ -22,9 +22,6 @@ namespace Clase_12_Library
             {
                 return 2;
             }
-            set
-            { 
-            }
         }
         /// <summary>
         /// Devuelve un string con la informacion de la moto
