@@ -32,3 +32,11 @@ F:\Projectos Csharp\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe
 F:\Projectos Csharp\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.pdb
 F:\Projectos Csharp\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.dll
 F:\Projectos Csharp\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe.config
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.exe
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12_Errores.csprojResolveAssemblyReference.cache
