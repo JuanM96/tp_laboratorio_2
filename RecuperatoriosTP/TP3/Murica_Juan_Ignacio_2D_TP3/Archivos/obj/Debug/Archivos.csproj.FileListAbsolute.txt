@@ -1,0 +1,14 @@
+F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\Archivos\bin\Debug\Archivos.dll
+F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\Archivos\bin\Debug\Archivos.pdb
+F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\Archivos\bin\Debug\Excepciones.dll
+F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\Archivos\bin\Debug\Excepciones.pdb
+F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\Archivos\obj\Debug\Archivos.dll
+F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\Archivos\obj\Debug\Archivos.pdb
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Archivos\obj\Debug\Archivos.dll
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Archivos\obj\Debug\Archivos.pdb
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Archivos\bin\Debug\Archivos.dll
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Archivos\bin\Debug\Archivos.pdb
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Archivos\bin\Debug\Excepciones.dll
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Archivos\bin\Debug\Excepciones.pdb

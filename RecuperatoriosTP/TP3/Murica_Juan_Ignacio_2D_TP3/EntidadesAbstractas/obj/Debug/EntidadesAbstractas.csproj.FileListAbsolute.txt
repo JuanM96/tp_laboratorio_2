@@ -1,0 +1,21 @@
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+G:\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+G:\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+G:\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+G:\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+G:\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+G:\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+G:\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
