@@ -19,3 +19,8 @@ F:\Projectos Csharp\Alumno_Clase_12\Clase_12_Library\obj\Debug\Clase_12_Library.
 F:\Projectos Csharp\Alumno_Clase_12\Clase_12_Library\obj\Debug\Clase_12_Library.pdb
 F:\Projectos Csharp\Alumno_Clase_12\Clase_12_Library\bin\Debug\Clase_12_Library.dll
 F:\Projectos Csharp\Alumno_Clase_12\Clase_12_Library\bin\Debug\Clase_12_Library.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP2\Clase_12_Library\obj\Debug\Clase_12_Library.csprojResolveAssemblyReference.cache
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP2\Clase_12_Library\obj\Debug\Clase_12_Library.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP2\Clase_12_Library\obj\Debug\Clase_12_Library.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP2\Clase_12_Library\bin\Debug\Clase_12_Library.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP2\Clase_12_Library\bin\Debug\Clase_12_Library.pdb
