@@ -20,12 +20,15 @@ namespace Clase_12_Library
             {
                 return 8;
             }
+            set
+            { 
+            }
         }
         /// <summary>
         /// Devuelve un string con la informacion del Camion
         /// </summary>
         /// <returns>String</returns>
-        public override sealed string Mostrar()
+        public override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 

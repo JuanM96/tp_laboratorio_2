@@ -8,3 +8,8 @@ F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\Excepciones\bin\Debug\Excepciones
 F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
 F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\Excepciones\obj\Debug\Excepciones.dll
 F:\Projectos Csharp\Murica_Juan_Ignacio_2D_TP3\Excepciones\obj\Debug\Excepciones.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Excepciones\bin\Debug\Excepciones.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Excepciones\bin\Debug\Excepciones.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Excepciones\obj\Debug\Excepciones.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Excepciones\obj\Debug\Excepciones.pdb

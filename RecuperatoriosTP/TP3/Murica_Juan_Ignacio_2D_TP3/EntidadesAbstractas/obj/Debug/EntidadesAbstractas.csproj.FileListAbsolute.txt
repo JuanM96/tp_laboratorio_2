@@ -19,3 +19,10 @@ G:\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
 G:\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
 G:\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
 G:\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb

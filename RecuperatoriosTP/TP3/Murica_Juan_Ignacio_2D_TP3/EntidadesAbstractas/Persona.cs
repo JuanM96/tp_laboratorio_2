@@ -55,7 +55,7 @@ namespace EntidadesAbstractas
         /// <summary>
         /// Get Devuelve el DNI y Set Guarda el DNI validandolo
         /// </summary>
-        public int DNI 
+        public int Dni 
         {
             get 
             {
@@ -84,7 +84,7 @@ namespace EntidadesAbstractas
         /// <summary>
         /// Set Guarda el DNI(string) validandolo y transformandolo a Entero
         /// </summary>
-        public string StringToDNI 
+        public string StringToDni 
         {
             set
             {
@@ -118,7 +118,7 @@ namespace EntidadesAbstractas
         /// <param name="nacionalidad">ENacionalidad que indica la nacionalidad de la persona</param>
         public Persona(string nombre, string apellido,int dni, ENacionalidad nacionalidad) :this(nombre,apellido,nacionalidad)
         {
-            this.DNI = dni;
+            this.Dni = dni;
         }
         /// <summary>
         /// Constructor que setea los atributos de persona
@@ -129,7 +129,7 @@ namespace EntidadesAbstractas
         /// <param name="nacionalidad">ENacionalidad que indica la nacionalidad de la persona</param>
         public Persona(string nombre, string apellido,string dni, ENacionalidad nacionalidad) :this(nombre,apellido,nacionalidad)
         {
-            this.StringToDNI = dni;
+            this.StringToDni = dni;
         }
         #endregion
         #region Methods
@@ -144,19 +144,19 @@ namespace EntidadesAbstractas
             switch (nacionalidad)
             {
                 case ENacionalidad.Argentino:
-                    if (dato < 1 || dato > 89999999)
+                    if (!(dato > 1 && dato < 89999999))
                     {
                         throw new NacionalidadInvalidaException();
                     }
                     break;
                 case ENacionalidad.Extranjero:
-                    if (dato < 89999999 || dato > 99999999)
+                    if (!(dato > 89999999))
                     {
                         throw new NacionalidadInvalidaException();
                     }
                     break;
                 default:
-                    throw new NacionalidadInvalidaException();
+                    break;
             }
             return dato;
         }
@@ -204,7 +204,7 @@ namespace EntidadesAbstractas
         {
             StringBuilder texto = new StringBuilder();
             texto.AppendLine("NOMBRE COMPLETO: " + this.Apellido + ", " + this.Nombre);
-            texto.AppendLine("NACIONALIDAD: "+this.Nacionalidad);
+            texto.AppendLine("NACIONALIDAD: " + this.Nacionalidad.ToString());
             texto.AppendLine();
             
             return texto.ToString();

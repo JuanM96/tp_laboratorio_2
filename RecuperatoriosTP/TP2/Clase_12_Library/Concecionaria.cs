@@ -56,13 +56,16 @@ namespace Clase_12_Library
                 switch (tipoDeVehiculo)
                 {
                     case ETipo.Automovil:
-                        sb.AppendLine(v.Mostrar());
+                        if (v is Automovil)
+                            sb.AppendLine(v.Mostrar());
                         break;
                     case ETipo.Moto:
-                        sb.AppendLine(v.Mostrar());
+                        if (v is Moto)
+                            sb.AppendLine(v.Mostrar());
                         break;
                     case ETipo.Camion:
-                        sb.AppendLine(v.Mostrar());
+                        if (v is Camion)
+                            sb.AppendLine(v.Mostrar());
                         break;
                     default:
                         sb.AppendLine(v.Mostrar());
@@ -102,15 +105,14 @@ namespace Clase_12_Library
         /// <returns>Concecionaria</returns>
         public static Concecionaria operator -(Concecionaria concecionaria, Vehiculo vehiculo)
         {
-            foreach (Vehiculo v in concecionaria._vehiculos)
+            for (int i = 0; i < concecionaria._vehiculos.Count; i++)
             {
-                if (v == vehiculo)
+                if (concecionaria._vehiculos[i] == vehiculo)
                 {
-                    concecionaria._vehiculos.Remove(v);
+                    concecionaria._vehiculos.Remove(concecionaria._vehiculos[i]);
                     break;
                 }
             }
-
             return concecionaria;
         }
         #endregion

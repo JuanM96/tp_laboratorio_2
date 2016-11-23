@@ -17,8 +17,8 @@ namespace EntidadesInstanciables
         #endregion
         #region Properties
         public List<Alumno> Alumnos { get { return this._alumnos; } set { ;} }
-        public Gimnasio.EClases Clase { get { return this._clase; } set { ;} }
-        public Instructor Instructor { get { return this._instructor; } set { ;} }
+        public Gimnasio.EClases Clase { get { return this._clase; } set { this._clase = value; } }
+        public Instructor Instructor { get { return this._instructor; } set { this._instructor = value; } }
         #endregion
         #region Constructors
         private Jornada()
@@ -48,6 +48,7 @@ namespace EntidadesInstanciables
                     if (object.Equals(item,a))
                     {
                         flag = true;
+                        break;
                     }
                 }
             }
@@ -87,7 +88,8 @@ namespace EntidadesInstanciables
         public override string ToString()
         {
             StringBuilder texto = new StringBuilder();
-            texto.AppendLine("CLASES DE " + this._clase + " POR "+ this._instructor.ToString());/*NOMBRE COMPLETO: " + this._instructor.Apellido + "," + this._instructor.Nombre);*/
+            texto.Append("CLASE DE " + this._clase + " POR ");
+            texto.AppendLine(this._instructor.ToString());
             texto.AppendLine("ALUMNOS:");
             foreach (Alumno item in this._alumnos)
             {
@@ -103,14 +105,16 @@ namespace EntidadesInstanciables
         /// <returns>True si se logro, false si no</returns>
         public static bool Guardar(Jornada jornada)
         {
+            String ruta = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory) + "\\Jornada.txt";
+            Texto texto = new Texto();
             try
             {
-                Texto t = new Texto();
-                return t.Guardar(Environment.GetFolderPath(Environment.SpecialFolder.Desktop)+"\\Jornadas.txt", jornada.ToString());
+                texto.Guardar(ruta, jornada.ToString());
+                return true;
             }
-            catch (Exception e)
+            catch (Exception Exc)
             {
-                throw e;
+                throw new Excepciones.ArchivosException(Exc);
             }
             
         }
@@ -119,20 +123,20 @@ namespace EntidadesInstanciables
         /// </summary>
         /// <param name="path">string de la ubicacion del archivo</param>
         /// <returns>string con los datos de la jornada</returns>
-        public static string Leer(string path)
+        public static bool Leer(out String datos)
         {
+            String ruta = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory) + "\\Jornada.txt";
+            Texto texto = new Texto();
             try
             {
-                Texto t = new Texto();
-                string datos;
-                t.Leer(path, out datos);
-                return datos;
+                texto.Leer(ruta, out datos);
+                return true;
             }
-            catch (Exception e)
+            catch (Exception exc)
             {
-                throw e;
+                datos = "";
+                throw new Excepciones.ArchivosException(exc);
             }
-            
         }
         #endregion
     }

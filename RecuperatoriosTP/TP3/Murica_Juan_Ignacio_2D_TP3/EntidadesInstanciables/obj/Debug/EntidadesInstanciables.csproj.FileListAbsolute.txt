@@ -29,3 +29,14 @@ G:\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\bin\Debug\Excepciones.pdb
 G:\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
 G:\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
 G:\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\bin\Debug\Archivos.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\bin\Debug\Excepciones.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\bin\Debug\Archivos.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb

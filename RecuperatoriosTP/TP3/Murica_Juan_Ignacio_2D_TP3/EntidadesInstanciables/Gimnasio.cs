@@ -28,7 +28,12 @@ namespace EntidadesInstanciables
         {
             get 
             {
-                return this._jornadas[jornada];
+                if (this._jornadas.Count > jornada && jornada >= 0)
+                {
+                    return this._jornadas[jornada];
+                }
+                else
+                    return null;
             }
         }
         public List<Alumno> Alumnos 
@@ -78,6 +83,7 @@ namespace EntidadesInstanciables
                     if (object.Equals(item,a))
                     {
                         flag = true;
+                        break;
                     }
                 }
             }
@@ -212,14 +218,16 @@ namespace EntidadesInstanciables
         {
             if (!object.Equals(g, null))
             {
-                Jornada j = new Jornada(clase, (g == clase));
-                for (int i = 0; i < g._alumnos.Count; i++)
+                Instructor instructor = (g == clase);
+                if (instructor != null)
                 {
-                    if (g._alumnos[i] == clase)
+                    Jornada jornadaAgregar = new Jornada(clase, instructor);
+                    for (int i = 0; i < g._alumnos.Count; i++)
                     {
-                        j = j + g._alumnos[i];
-                        g._jornadas.Add(j);
+                        if (g._alumnos[i] == clase)
+                            jornadaAgregar += g._alumnos[i];
                     }
+                    g._jornadas.Add(jornadaAgregar);
                 }
                 
             }
@@ -255,33 +263,34 @@ namespace EntidadesInstanciables
         /// <returns>true si se logro guardar, false si no</returns>
         public static bool Guardar(Gimnasio gim)
         {
+            Archivos.Xml<Gimnasio> miXml = new Archivos.Xml<Gimnasio>();
             try
             {
-                Xml<Gimnasio> xml = new Xml<Gimnasio>();
-                return xml.Guardar(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "\\Gimansio.Xml", gim);
+                String path = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory) + "\\Gimnasio.xml";
+                miXml.Guardar(path, gim);
+                return true;
             }
-            catch (Exception e)
+            catch (Exception exc)
             {
-                throw e;
+                throw new ArchivosException(exc);
             }
         }
         /// <summary>
         /// Recupera los datos del Gimnasio de un archivo xml
         /// </summary>
         /// <returns>Gimnasio con los datos recuperados</returns>
-        public static Gimnasio Leer()
+        public static bool Leer(out Gimnasio gim)
         {
+            Archivos.Xml<Gimnasio> miXml = new Archivos.Xml<Gimnasio>();
             try
             {
-                Gimnasio gim = new Gimnasio();
-                Xml<Gimnasio> xml = new Xml<Gimnasio>();
-                xml.Leer(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "\\Gimansio.Xml", out gim);
-                return gim;
+                String path = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory) + "\\Gimnasio.xml";
+                miXml.Leer(path, out gim);
+                return true;
             }
-            catch (Exception e)
+            catch (Exception exc)
             {
-                
-                throw e;
+                throw new ArchivosException(exc);
             }
         }
         #endregion

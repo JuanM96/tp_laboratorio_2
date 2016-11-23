@@ -30,3 +30,17 @@ G:\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\EntidadesInstanciables.pdb
 G:\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\Excepciones.pdb
 G:\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\Archivos.pdb
 G:\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\obj\Debug\Tp3_Program.csprojResolveAssemblyReference.cache
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\Tp3_Program.exe.config
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\obj\Debug\Tp3_Program.exe
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\obj\Debug\Tp3_Program.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\Tp3_Program.exe
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\Tp3_Program.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\EntidadesAbstractas.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\EntidadesInstanciables.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\Excepciones.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\Archivos.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\EntidadesAbstractas.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\EntidadesInstanciables.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\Excepciones.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\bin\Debug\Archivos.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Tp3_Program\obj\Debug\Tp3_Program.csprojResolveAssemblyReference.cache

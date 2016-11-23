@@ -9,44 +9,29 @@ namespace UnitTestEntidades
     public class UnitTestExcepciones
     {
         [TestMethod]
-        public void DNI_Invalido()
+        public void ComprobarExcepciones()
         {
-            //Caso 1 Dni Mayor a 99999999 y string
-            string dniTest = "100000000";
+            Alumno a1;
+
             try
             {
-                Alumno a1 = new Alumno(1, "Juan", "Murcia", dniTest, Persona.ENacionalidad.Argentino, Gimnasio.EClases.CrossFit);
-                Assert.Fail("Sin excepción para DNI inválido: " + dniTest);
+                a1 = new Alumno(1, "Juan", "Murcia", "1234qw", Persona.ENacionalidad.Argentino, Gimnasio.EClases.CrossFit);
             }
             catch (Exception e)
             {
                 Assert.IsInstanceOfType(e, typeof(DniInvalidoException));
+
             }
-            
-            
-            //Caso 2 Dni Menor a 1 y string
-            string dniTest2 = "-2";
+
+
             try
             {
-                Alumno a2 = new Alumno(1, "Juan", "Murcia", dniTest2, Persona.ENacionalidad.Argentino, Gimnasio.EClases.CrossFit);
-                Assert.Fail("Sin excepción para DNI inválido: " + dniTest2);
+                Alumno a2 = new Alumno(2, "pepo", "alvarez", "123", Persona.ENacionalidad.Extranjero, Gimnasio.EClases.Pilates);
+
             }
             catch (Exception e)
             {
-                Assert.IsInstanceOfType(e, typeof(DniInvalidoException));
-            }
-            
-            
-            //Caso 3 Dni con letras
-            string dniTest3 = "40asd0059700";
-            try
-            {
-                Alumno a3 = new Alumno(1, "Juan", "Murcia", dniTest3, Persona.ENacionalidad.Argentino, Gimnasio.EClases.CrossFit);
-                Assert.Fail("Sin excepción para DNI inválido: " + dniTest3);
-            }
-            catch (Exception e)
-            {
-                Assert.IsInstanceOfType(e, typeof(DniInvalidoException));
+                Assert.IsInstanceOfType(e, typeof(NacionalidadInvalidaException));
             }
             
             

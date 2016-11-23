@@ -13,7 +13,7 @@ namespace EntidadesAbstractas
         #region Fields
         private int _identificador;
         #endregion
-        #region Constructors
+        #region Builders
         /// <summary>
         /// Constructor para Serializar
         /// </summary>
@@ -38,10 +38,10 @@ namespace EntidadesAbstractas
         /// <returns>String con los datos</returns>
         protected virtual string MostrarDatos()
         {
-            StringBuilder texto = new StringBuilder();
-            texto.AppendLine("CARNET NUMERO: " + this._identificador);
-            texto.AppendLine();
-            return base.ToString() + texto.ToString();
+            StringBuilder retorno = new StringBuilder();
+            retorno.AppendLine(base.ToString());
+            retorno.AppendLine("CARNET NUMERO: " + this._identificador.ToString());
+            return retorno.ToString();
         }
         protected abstract string ParticiparEnClase();
         /// <summary>
@@ -51,12 +51,7 @@ namespace EntidadesAbstractas
         /// <returns>Bool true si son iguales , false si no</returns>
         public override bool Equals(object obj)
         {
-            bool flag = false;
-            if (obj.GetType() == this.GetType() && (this.DNI == ((PersonaGimnasio)obj).DNI || ((PersonaGimnasio)obj)._identificador == this._identificador))
-            {
-                flag = true;
-            }
-            return flag;
+            return (obj is PersonaGimnasio);
         }
         /// <summary>
         /// Sobrecarga del operador == de 2 personaGimnasio
@@ -66,12 +61,10 @@ namespace EntidadesAbstractas
         /// <returns>Bool true si son iguales , false si no</returns>
         public static bool operator == (PersonaGimnasio pg1,PersonaGimnasio pg2)
         {
-            bool flag = false;
-            if (!object.Equals(pg1,null)&&!object.Equals(pg2,null))
-            {
-                flag = pg1.Equals(pg2);
-            }
-            return flag;
+            bool retorno = false;
+            if (!object.Equals(pg1, null) && !object.Equals(pg2, null) && pg1.Equals(pg2) && (pg1.Dni == pg2.Dni || pg1._identificador == pg2._identificador))
+                retorno = true;
+            return retorno;
         }
         /// <summary>
         /// Sobrecarga del operador != de 2 personaGimnasio

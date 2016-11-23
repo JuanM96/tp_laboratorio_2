@@ -12,3 +12,10 @@ D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Archivos\bin\Debug\Archivos.dll
 D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Archivos\bin\Debug\Archivos.pdb
 D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Archivos\bin\Debug\Excepciones.dll
 D:\Murcia.Juan\Murica_Juan_Ignacio_2D_TP3\Archivos\bin\Debug\Excepciones.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Archivos\bin\Debug\Archivos.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Archivos\bin\Debug\Archivos.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Archivos\bin\Debug\Excepciones.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Archivos\bin\Debug\Excepciones.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Archivos\obj\Debug\Archivos.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\Archivos\obj\Debug\Archivos.pdb

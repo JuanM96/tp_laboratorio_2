@@ -8,6 +8,6 @@ namespace Excepciones
 {
     public class ArchivosException :Exception
     {
-        public ArchivosException(Exception innerException) : base(innerException.Message) { }
+        public ArchivosException(Exception innerException) : base("ERROR CON EL ARCHIVO", innerException) { }
     }
 }

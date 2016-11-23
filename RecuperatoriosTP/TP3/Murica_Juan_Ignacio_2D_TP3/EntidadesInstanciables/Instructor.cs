@@ -24,6 +24,7 @@ namespace EntidadesInstanciables
         {
             this._clasesDelDia = new Queue<Gimnasio.EClases>();
             this._randomClases();
+            this._randomClases();
         }
         #endregion
         #region Methods
@@ -32,10 +33,8 @@ namespace EntidadesInstanciables
         /// </summary>
         private void _randomClases()
         {
-            for (int i = 0; i < 2; i++)
-            {
-                this._clasesDelDia.Enqueue((Gimnasio.EClases)Instructor._random.Next(0,4));
-            }
+            int numero = _random.Next(0, 4);
+            this._clasesDelDia.Enqueue((Gimnasio.EClases)numero);
         }
         /// <summary>
         /// Recolecta los datos del instructor en un string
@@ -43,7 +42,10 @@ namespace EntidadesInstanciables
         /// <returns>string con los datos del instructor</returns>
         protected override string MostrarDatos()
         {
-            return base.MostrarDatos()+this.ParticiparEnClase();
+            StringBuilder retorno = new StringBuilder();
+            retorno.Append(base.MostrarDatos());
+            retorno.Append(this.ParticiparEnClase());
+            return retorno.ToString();
         }
         /// <summary>
         /// Sobrecarga del ParticiparEnClase()
@@ -52,10 +54,13 @@ namespace EntidadesInstanciables
         protected override string ParticiparEnClase()
         {
             StringBuilder texto = new StringBuilder();
-            texto.AppendLine("CLASES DEL DIA:");
-            foreach (Gimnasio.EClases clase in this._clasesDelDia)
+            if (this._clasesDelDia != null)
             {
-                texto.AppendLine(clase.ToString());
+                texto.AppendLine("CLASES DEL DIA:");
+                foreach (Gimnasio.EClases clase in this._clasesDelDia)
+                {
+                    texto.AppendLine(clase.ToString());
+                }
             }
             return texto.ToString() ;
         }

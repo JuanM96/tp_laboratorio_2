@@ -24,3 +24,16 @@ G:\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\bin\Debug\Archivos.pdb
 G:\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\obj\Debug\UnitTestEntidades.csprojResolveAssemblyReference.cache
 G:\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\obj\Debug\UnitTestEntidades.dll
 G:\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\obj\Debug\UnitTestEntidades.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\bin\Debug\UnitTestEntidades.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\bin\Debug\UnitTestEntidades.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\bin\Debug\Archivos.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\bin\Debug\EntidadesAbstractas.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\bin\Debug\EntidadesInstanciables.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\bin\Debug\Excepciones.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\bin\Debug\Archivos.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\bin\Debug\EntidadesAbstractas.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\bin\Debug\EntidadesInstanciables.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\bin\Debug\Excepciones.pdb
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\obj\Debug\UnitTestEntidades.csprojResolveAssemblyReference.cache
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\obj\Debug\UnitTestEntidades.dll
+F:\Users\Juan Murcia\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3\Murica_Juan_Ignacio_2D_TP3\UnitTestEntidades\obj\Debug\UnitTestEntidades.pdb

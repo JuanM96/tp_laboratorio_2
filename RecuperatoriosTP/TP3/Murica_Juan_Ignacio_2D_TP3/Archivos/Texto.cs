@@ -11,22 +11,38 @@ namespace Archivos
     {
         public bool Guardar(string archivo, string datos)
         {
-            bool flag = false;
-            try
+            if (File.Exists(archivo))
             {
-                using (StreamWriter archivoTxT = new StreamWriter(archivo))
+                try
+                {
+                    using (StreamWriter sArchivo = new StreamWriter(archivo, true))
+                    {
+                        sArchivo.WriteLine(datos.ToString());
+                    }
+                    return true;
+                }
+                catch (Exception e)
+                {
+                    throw e;
+                }
+            }
+            else
+            {
+                try
+                {
+                    using (StreamWriter sArchivo = new StreamWriter(archivo))
+                    {
+                        sArchivo.WriteLine(datos.ToString());
+                    }
+                    return true;
+
+                }
+                catch (Exception e)
                 {
 
-                    archivoTxT.WriteLine(datos);
+                    throw e;
                 }
-                flag = true;
             }
-            catch (Exception e)
-            {
-                throw new ArchivosException(e);
-            }
-
-            return flag;
         }
         public bool Leer(string archivo, out string datos)
         {
@@ -41,7 +57,7 @@ namespace Archivos
             }
             catch (Exception e)
             {
-                throw new ArchivosException(e);
+                throw e;
             }
 
             return flag;
