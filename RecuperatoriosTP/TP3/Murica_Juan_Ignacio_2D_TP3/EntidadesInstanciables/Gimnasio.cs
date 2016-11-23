@@ -75,19 +75,19 @@ namespace EntidadesInstanciables
         /// <returns>true si el alumno esta en el gimnasio, false si no</returns>
         public static bool operator ==(Gimnasio g, Alumno a)
         {
-            bool flag = false;
-            if (!object.Equals(g,null)&&!object.Equals(a,null))
+            bool retorno = false;
+            if (!object.Equals(g, null) && !object.Equals(a, null))
             {
-                foreach (Alumno item in g._alumnos)
+                foreach (Alumno alumno in g._alumnos)
                 {
-                    if (object.Equals(item,a))
+                    if (alumno == a)
                     {
-                        flag = true;
+                        retorno = true;
                         break;
                     }
                 }
             }
-            return flag;
+            return retorno;
         }
         /// <summary>
         /// Sobrecarga del operador !=
